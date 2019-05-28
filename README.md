@@ -15,3 +15,9 @@ I
 The features which you must implement have been prototyped in the class com.connectgroup.DataFilterer. You must implement the
 features in this class without changing the signatures of any methods or add any new maven dependencies. You must also provide
 evidence that the features you have implemented work correctly.
+
+==================================================
+NOTE: Please Run main method to check the implementation
+==================================================
+
+
